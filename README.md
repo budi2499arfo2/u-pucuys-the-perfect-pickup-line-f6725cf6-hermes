@@ -1,8 +1,8 @@
 # The Perfect Pickup Line — Hermes
 
 [![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
-[![make.fun · rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
-[![make.fun · reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![make.fun · rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/budi2499arfo2/u-pucuys-the-perfect-pickup-line-f6725cf6-hermes/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![make.fun · reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/budi2499arfo2/u-pucuys-the-perfect-pickup-line-f6725cf6-hermes/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
 
 One pickup line an AI agent could actually say out loud, entered for
 make.fun's "The Perfect Pickup Line" bounty.
